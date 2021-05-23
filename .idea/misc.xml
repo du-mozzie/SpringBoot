@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo+zookeeper/service/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo+zookeeper/consumer-server/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo+zookeeper/provider-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-03-web/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-04-data/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-09-test/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-07-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-02-config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-05-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-01-helloworld/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
